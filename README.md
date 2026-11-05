@@ -1,6 +1,6 @@
 # Hi there, I'm Suryansh Chaudhary 👋
 
-### 💻 Web Developer | B.Tech CSE & IT Student
+### 💻 Web Developer | B.Tech CS & IT Student
 
 Welcome to my GitHub profile!
 
